@@ -1,0 +1,22 @@
+{
+  "name": "@mdouglasbrett/how-to-npm",
+  "version": "1.0.0",
+  "description": "How To NPM nodeschool module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdouglasbrett/how-to-npm.git"
+  },
+  "author": "mdouglasbrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdouglasbrett/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/mdouglasbrett/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
